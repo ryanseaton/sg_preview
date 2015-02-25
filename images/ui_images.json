@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "bitcoin_counter",
+	"frame": {"x":164,"y":2,"w":240,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":134},
+	"sourceSize": {"w":240,"h":134}
+},
+{
+	"filename": "enemy_health_icon",
+	"frame": {"x":406,"y":85,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
+	"sourceSize": {"w":72,"h":72}
+},
+{
+	"filename": "health_container",
+	"frame": {"x":164,"y":390,"w":236,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":62},
+	"sourceSize": {"w":236,"h":62}
+},
+{
+	"filename": "health_meter",
+	"frame": {"x":164,"y":518,"w":221,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":52},
+	"sourceSize": {"w":221,"h":52}
+},
+{
+	"filename": "heart",
+	"frame": {"x":406,"y":2,"w":81,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":81},
+	"sourceSize": {"w":81,"h":81}
+},
+{
+	"filename": "sheild_container",
+	"frame": {"x":164,"y":454,"w":236,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":62},
+	"sourceSize": {"w":236,"h":62}
+},
+{
+	"filename": "shield_icon",
+	"frame": {"x":405,"y":159,"w":63,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":75},
+	"sourceSize": {"w":63,"h":75}
+},
+{
+	"filename": "shield_meter",
+	"frame": {"x":164,"y":572,"w":221,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":52},
+	"sourceSize": {"w":221,"h":52}
+},
+{
+	"filename": "ui_side_bar",
+	"frame": {"x":2,"y":2,"w":160,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":768},
+	"sourceSize": {"w":160,"h":768}
+},
+{
+	"filename": "ui_top_left",
+	"frame": {"x":164,"y":138,"w":239,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":124},
+	"sourceSize": {"w":239,"h":124}
+},
+{
+	"filename": "ui_top_right",
+	"frame": {"x":164,"y":264,"w":239,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":124},
+	"sourceSize": {"w":239,"h":124}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui_images",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7ab9e1da31472652b266e0bff7f11175:7442cd3fb631d21c52aea2ba07e41c6b:0b7e20f60dcba6312dc607c534d02a9e$"
+}
+}

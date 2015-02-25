@@ -1,0 +1,42 @@
+	{ 
+		
+		"guy": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   408, 59  ,  432, 116  ,  440, 174  ,  427, 258  ,  86, 256  ,  304, 30  ,  326, 23  ,  370, 26  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   166, 24  ,  209, 9  ,  304, 30  ,  86, 256  ,  77, 199  ,  77, 163  ,  97, 85  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   273, 473  ,  196, 456  ,  152, 416  ,  127, 378  ,  108, 323  ,  408, 325  ,  381, 388  ,  330, 450  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   304, 30  ,  209, 9  ,  249, 6  ,  278, 13  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   196, 456  ,  273, 473  ,  234, 471  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   97, 302  ,  92, 282  ,  418, 281  ,  414, 304  ,  408, 325  ,  108, 323  ,  101, 313  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   427, 258  ,  418, 281  ,  92, 282  ,  86, 256  ]
+				}  
+		]
+		
+	}
